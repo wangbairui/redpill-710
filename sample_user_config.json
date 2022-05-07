@@ -5,7 +5,8 @@
         "sn": "2010PDN860100",
         "mac1": "001132C5B34F",
         "mac2": "001132C5B350",
-        "mac3": "001132C5B351"       
+        "mac3": "001132C5B351",
+        "netif_num": "3"
     },
     "synoinfo": {
         "maxlanport": "3"
