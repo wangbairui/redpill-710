@@ -5,9 +5,7 @@
         "sn": "2022NAS123456",
         "mac1": "001132123456",
         "mac2": "001132123457",
-        "DiskIdxMap: "00",
-        "SataPortMap: "6",
-        "SasIdxMap: "0"
+       
     },
     "synoinfo": {},
     "ramdisk_copy": {},
